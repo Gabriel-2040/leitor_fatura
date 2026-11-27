@@ -1,3 +1,4 @@
+## Teste em andamento usando o antigravity como parceiro para desenvolvimento de bi com uso de css para melhor visualização dos estilos do streamlit.
 # 💳 Inteligência Financeira Pessoal (Leitor de Faturas & BI)
 
 > Aplicativo de inteligência financeira pessoal que transforma faturas de cartão de crédito em um painel BI analítico com **projeções preditivas de gastos futuros** (baseadas em parcelamentos ativos) e **categorização contínua com aprendizado por reforço**.
